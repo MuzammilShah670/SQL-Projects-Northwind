@@ -1,3 +1,7 @@
+# 🗄️ SQL Projects — Northwind
+
+A MySQL-based data analysis project built on the classic **Northwind** sample database. This project explores the database schema, writes analytical SQL queries, and builds stored procedures to extract meaningful business insights — all complemented by an interactive **Power BI dashboard**.
+
 ---
 
 ## 📌 Project Overview
@@ -17,7 +21,7 @@ This project covers:
 The Northwind database consists of the following core tables:
 
 | Table | Description |
-|---|---|
+| --- | --- |
 | `Customers` | Customer details and contact information |
 | `Orders` | Order records linked to customers and employees |
 | `Order Details` | Line items per order including quantity and price |
@@ -78,7 +82,7 @@ An interactive Power BI dashboard has been built on top of this data to provide 
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
-|---|---|
+| --- | --- |
 | **MySQL** | Database engine and query execution |
 | **MySQL Workbench** | Schema design and query development |
 | **Power BI** | Data visualization and dashboard |
