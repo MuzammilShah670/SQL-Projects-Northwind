@@ -1,0 +1,4 @@
+https://services.odata.org/Northwind/Northwind.svc/
+
+
+OData - Basic
