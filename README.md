@@ -93,7 +93,7 @@ An interactive Power BI dashboard has been built on top of this data to provide 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sql-projects-northwind.git
+   git clone https://github.com/MuzammilShah670/sql-projects-northwind.git
    ```
 2. Import the Northwind database into your MySQL instance using the provided `.sql` file.
 3. Open the query files in MySQL Workbench or any SQL client.
